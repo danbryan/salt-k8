@@ -1,0 +1,2 @@
+salt:
+  installed: True
